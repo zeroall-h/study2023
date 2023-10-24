@@ -84,7 +84,7 @@ a {
 
 .track {
 	position: absolute;
-	left: 50vw;
+	left: 50%;
 	top: 0;
 	width: 1048px;
 	transform: translateX(-50%);
