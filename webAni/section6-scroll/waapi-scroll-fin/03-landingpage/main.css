@@ -59,7 +59,7 @@ a {
 
 .page-content {
 	position: absolute;
-	left: 50vw;
+	left: 50%;
 	top: 0;
 	z-index: 100;
 	width: 90%;
