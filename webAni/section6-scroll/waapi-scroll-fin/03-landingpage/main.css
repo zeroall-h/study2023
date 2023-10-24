@@ -57,24 +57,6 @@ a {
 	left: calc(58% - 3px);
 }
 
-.page-content {
-	position: absolute;
-	left: 50%;
-	top: 0;
-	z-index: 100;
-	width: 90%;
-	height: 100%;
-	line-height: 1.6;
-	transform: translateX(-50%);
-	/* background: rgba(255,0,0,0.5); */
-}
-
-.text-block {
-	position: absolute;
-	width: 50%;
-}
-
-
 
 /* airplane timeline */
 .airplane-scroll-timeline {
