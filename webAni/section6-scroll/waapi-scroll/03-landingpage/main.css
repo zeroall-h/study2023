@@ -81,7 +81,6 @@ a {
 	position: relative;
 	height: calc(4315px + 2000px - 100vh);
 	margin: 200px 0;
-	border: 10px dashed yellow;
 }
 
 .airplane {
@@ -107,7 +106,6 @@ a {
 	width: 1048px;
 	transform: translateX(-50%);
 	will-change: transform;
-	/* background: rgba(255,255,0,0.2); */
 }
 
 .flight-path {
@@ -132,7 +130,6 @@ a {
 	top: 2350px;
 	width: 94%;
 	height: 2000px;
-	border: 10px dashed MediumAquaMarine;
 }
 
 .jeju {
@@ -153,13 +150,11 @@ a {
 	height: 100vh;
 	margin-top: -650px; /* jeju-container랑 겹치도록 */
 	will-change: transform, opacity;
-	/* border: 10px dashed deeppink; */
 }
 
 .gallery-item {
 	width: 70vw;
 	flex-shrink: 0;
-	/* border: 10px solid rgba(255, 255, 255, 0.3); */
 }
 
 .gallery-photo {
